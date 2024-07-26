@@ -1,3 +1,5 @@
 ##### [data base -> ITI -> ERD](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&index=1)
 ##### [Understanding Data Engineering -> DataCamp](https://app.datacamp.com/learn/courses/understanding-data-engineering)
 ##### [Data Warehousing Concepts -> DataCamp](https://app.datacamp.com/learn/courses/data-warehousing-concepts)
+##### [Streamlined Data Ingestion with pandas](https://app.datacamp.com/learn/courses/streamlined-data-ingestion-with-pandas)
+##### [ETL and ELT in Python](https://app.datacamp.com/learn/courses/etl-and-elt-in-python)

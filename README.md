@@ -18,7 +18,12 @@
   #### data modeling
   #### [Hadoop](https://www.youtube.com/playlist?list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa)
   #### [Apache Spark](https://www.youtube.com/playlist?list=PLxNoJq6k39G9lTU9A65HwC0uWD-XkqqOi)
+  #### [kafka](https://app.datacamp.com/learn/courses?technologies=33)
   #### [PySpark](https://app.datacamp.com/learn/courses?technologies=28)
+  #### [AirFlow](https://app.datacamp.com/learn/courses?technologies=20)
+  #### [SnowFlake](https://app.datacamp.com/learn/courses?technologies=17)
+  #### [DataBrics](https://app.datacamp.com/learn/courses?technologies=16)
+  #### [scala](https://app.datacamp.com/learn/courses?technologies=8)
 
 ## Data Science  
   #### NLP

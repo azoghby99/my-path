@@ -3,6 +3,7 @@
 ##### [Data Warehousing Concepts -> DataCamp](https://app.datacamp.com/learn/courses/data-warehousing-concepts)
 ##### [Understanding Modern Data Architecture](https://app.datacamp.com/learn/courses/understanding-modern-data-architecture)
 ##### [Introduction to NoSQL](https://app.datacamp.com/learn/courses/introduction-to-nosql)
+##### [Database Design](https://app.datacamp.com/learn/courses/database-design)
 ##### [ETL and ELT in Python](https://app.datacamp.com/learn/courses/etl-and-elt-in-python)
 ##### [Data Processing in Shell](https://app.datacamp.com/learn/courses/data-processing-in-shell)
 ##### [streaming concepts](https://app.datacamp.com/learn/courses/streaming-concepts)

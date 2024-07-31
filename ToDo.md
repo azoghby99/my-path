@@ -1,3 +1,4 @@
+##### [Introduction to Data Engineering](https://app.datacamp.com/learn/courses/introduction-to-data-engineering)
 ##### [Data Engineer in 2024](https://www.datacamp.com/blog/how-to-become-a-data-engineer)
 ##### [data base -> ITI -> ERD](https://www.youtube.com/watch?v=nUiuyejbemc&list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&index=1)
 ##### [Data Warehousing Concepts -> DataCamp](https://app.datacamp.com/learn/courses/data-warehousing-concepts)
@@ -8,3 +9,4 @@
 ##### [Data Processing in Shell](https://app.datacamp.com/learn/courses/data-processing-in-shell)
 ##### [streaming concepts](https://app.datacamp.com/learn/courses/streaming-concepts)
 ##### [Streamlined Data Ingestion with pandas](https://app.datacamp.com/learn/courses/streamlined-data-ingestion-with-pandas)
+##### [Parallel Programming with Dask in Python](https://app.datacamp.com/learn/courses/parallel-programming-with-dask-in-python)
